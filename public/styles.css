@@ -1,0 +1,32 @@
+.carEntry {
+  display: flex;
+  flex-direction: row;
+  border-style: solid; 
+  margin-bottom: 10px;
+  margin-right: 10px;
+  width: 500px;
+  height: 200px;
+  background-color: gray; 
+  color: white;
+  border-style: solid;
+  border-color: black;
+}
+
+.carPanels {
+  display: flex;
+  flex-direction: row;
+}
+
+.carInfo {
+  margin-left: 15px; 
+}
+
+.carImage {
+  border-style: solid; 
+  border-color: black;
+  margin-left: 15px;
+  margin-top: 15px;
+  width: 175px;
+  height: 150px;
+}
+
