@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/simtimj/miniApp2.3#readme",
   "dependencies": {
-    "express": "^4.16.4",
+    "express": "^4.17.3",
     "nodemon": "^1.19.0",
     "path": "^0.12.7",
     "react": "^16.8.6",
